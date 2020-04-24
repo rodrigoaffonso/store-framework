@@ -1,5 +1,5 @@
 
-.infoCardContainer--vintagee {
+.infoCardContainer--vintage {
     background-color: #EDCFD1
   }
 
@@ -20,10 +20,13 @@
     color: white;
     background-color: gray;
     border: transparent;
+    max-width: 1260;
+    margin: 0;
+    padding: 0;
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
-    background-color: blue;
+    background-color: white;
     border: transparent;
 }
