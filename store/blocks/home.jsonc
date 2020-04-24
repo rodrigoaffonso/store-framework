@@ -17,7 +17,8 @@
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode": "button",
       "callToActionText": "Explore",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockClass": "vintagee"
     }
 
   },
@@ -31,7 +32,8 @@
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode": "link",
       "callToActionText": "Go to collection",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockClass": "metal"
     }
 
   }
