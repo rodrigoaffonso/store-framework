@@ -1,6 +1,6 @@
 {
 
-"slider-layout#home": {
+"slider-layout#hhome": {
     "children": ["image#brand1","image#brand2","image#brand3","image#brand4","image#brand5","image#brand6"],
     "props": {
       "autoplay": {
