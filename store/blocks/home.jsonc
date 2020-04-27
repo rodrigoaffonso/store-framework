@@ -8,7 +8,8 @@
     "info-card#rethink",
     "flex-layout.col",
     "image#electronics",
-    "image#major-appliance"
+    "image#major-appliance",
+    "shelf"
 
     ]
   },
