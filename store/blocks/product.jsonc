@@ -69,7 +69,7 @@
 "sku-selector":{
   "props":{
     "showVariationsLabels": true,
-    
+    "hideImpossibleCombinations": true,
     "showVariationsErrorMessage": true
   }
 }
