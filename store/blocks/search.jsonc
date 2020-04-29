@@ -13,8 +13,7 @@
 
   "search-result-layout.desktop":{
     "props":{
-      "pagination":"show more",
-      "indexOf":true
+      "pagination":"show more"
     },
     "blocks":[
       "breadcrumb.search",
