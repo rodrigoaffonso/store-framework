@@ -12,7 +12,10 @@
   },
 
   "search-result-layout.desktop":{
-   
+    "props":{
+      "pagination":"show more",
+      "indexOf":true
+    },
     "blocks":[
       "breadcrumb.search",
       "search-title.v2",
