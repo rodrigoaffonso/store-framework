@@ -43,8 +43,15 @@
 
     "flex-layout.row#results":{
       "children":[
-        "flex-layout.col#filter",
-        "flex-layout.col#search"
+        "flex-layout.col#search",
+        "flex-layout.col#filter"
+
+      ]
+    },
+
+    "flex-layout.col#search":{
+      "children":[
+        "filter-navigator.v3"
       ]
     },
 
@@ -55,12 +62,6 @@
       "props":{
         "width": "20%"
       }
-    },
-
-    "flex-layout.col#search":{
-      "children":[
-        "filter-navigator.v3"
-      ]
     },
 
     "flex-layout.row#top": { 
