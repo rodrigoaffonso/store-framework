@@ -1,24 +1,10 @@
 {
   "store.search": {
      "blocks": [
-       "search-result-layout",
-       "search-content"
-    ]
-  },
-
-  "search-content":{
-    "blocks":[
-      "gallery",
-      "not-found"
-    ]
-  },
-
-  "gallery":{
-    "blocks":[
-      "product-summary.shelf"
-    ]
-  },
-
+       "search-result-layout"
+     ]
+    },
+    
   "search-result-layout":{
     "blocks":[
       "search-result-layout.desktop",
