@@ -49,19 +49,19 @@
       ]
     },
 
+    "flex-layout.col#filter":{
+      "props":{
+        "width": "20%"
+      },
+      "children":[
+        "search-content"
+      ]
+    },
+
     "flex-layout.col#search":{
       "children":[
         "filter-navigator.v3"
       ]
-    },
-
-    "flex-layout.col#filter":{
-      "children":[
-        "search-content"
-      ],
-      "props":{
-        "width": "20%"
-      }
     },
 
     "flex-layout.row#top": { 
