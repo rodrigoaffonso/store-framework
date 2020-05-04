@@ -37,11 +37,16 @@
       "flex-layout.row#top",
       "search-fetch-previous",
       "flex-layout.row#results",
-      "flex-layout.col#search",
-      "flex-layout.col#filter",
       "search-fetch-more"
     ]
     },
+
+    "flex-layout.row#top": { 
+      "children":[
+        "total-products.v2",
+        "order-by.v2"
+        ]
+      },
 
     "flex-layout.row#results":{
       "children":[
@@ -64,12 +69,5 @@
       "children":[
         "filter-navigator.v3"
       ]
-    },
-
-    "flex-layout.row#top": { 
-      "children":[
-        "total-products.v2",
-        "order-by.v2"
-        ]
-      }
+    }
     }
