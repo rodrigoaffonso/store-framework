@@ -58,7 +58,7 @@
 
     "flex-layout.col#filter":{
       "props":{
-        "width": "20%"
+        "width": "80%"
       },
       "children":[
         "search-content"
